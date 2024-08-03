@@ -1,0 +1,24 @@
+body{
+    display: flex;/*Display flexible, sitio flexible*/
+    justify-content: center; /*Justifica el contenido en el centro*/
+    min-height: 100vh; 
+    margin: 0;
+    text-align: center;
+    background-color: rgb(114, 147, 207); /*Color de fondo*/
+    color: aliceblue; /*Color del texto*/
+}
+h1 {
+  background-color: rgb(187, 149, 115); /*Asigna color de fondo h1*/  
+  color: beige; /*Asigna color de texto a h1*/
+}
+h2 {
+    background-color: rgb(119, 102, 178); /*Asigna color de fondo h1*/  
+    color: beige; /*Asigna color de texto a h1*/ 
+}
+p{
+    background-color: rgb(154, 166, 111); /*Asigna color de fondo h1*/  
+    color: beige; /*Asigna color de texto a h1*/   
+}
+div{
+    max-width: 600px;
+}
